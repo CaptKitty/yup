@@ -1,0 +1,58 @@
+West_Pommerania = {
+1000
+Dutch
+1000
+Kiwis
+1000
+Makaryas
+}
+East_Pommerania = {
+1000
+Dutch
+}
+Lublin = {
+1000
+Dutch
+1000
+Polish
+500
+Jewish
+}
+Posen = {
+1000
+Dutch
+500
+Germans
+}
+Warsaw = {
+1000
+Dutch
+}
+Berlin = {
+1000
+Dutch
+}
+West_Silesia = {
+1000
+Dutch
+}
+East_Silesia = {
+1000
+Dutch
+}
+Moravia = {
+1000
+Dutch
+}
+North_Slovakia = {
+1000
+Dutch
+}
+South_Slovakia = {
+1000
+Dutch
+}
+Lvov = {
+1000
+Dutch
+}

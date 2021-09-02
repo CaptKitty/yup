@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Country
+  - Ally
+  - Enemy
+  - Nation
+  - Faction
+  - Units
+  - Projectiles
+  - Obstacles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemies
+  - Allies
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2571646959
+    locked: 0
+  - name: Weapons
+    uniqueID: 3825673465
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer
+    uniqueID: 1066040481
+    locked: 0

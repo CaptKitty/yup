@@ -1,0 +1,30 @@
+PLAYER = {
+AttackModifier = 1
+HealthModifier = 1
+InfantryHealthModifier = 1
+ArcherRangeModifier = 0
+}
+FRANKS = {
+AttackModifier = 1,1
+HealthModifier = 1,1
+InfantryHealthModifier = 1
+ArcherRangeModifier = 0
+}
+GOTHS = {
+AttackModifier = 1,5
+HealthModifier = 0,5
+InfantryHealthModifier = 1
+ArcherRangeModifier = 0
+}
+BURGUNDIANS = {
+AttackModifier = 0,9
+HealthModifier = 0,9
+InfantryHealthModifier = 1
+ArcherRangeModifier = 0
+}
+POLISH = {
+AttackModifier = 1
+HealthModifier = 1
+InfantryHealthModifier = 1
+ArcherRangeModifier = 0
+}
